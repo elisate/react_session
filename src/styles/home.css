@@ -1,0 +1,14 @@
+.image-product{
+    width:18rem;
+    height: 15rem;
+    border-radius: 10px;
+    padding-bottom: 1rem;
+}
+.card-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-top: 7rem;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+}
