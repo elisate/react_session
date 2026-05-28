@@ -37,6 +37,7 @@ function Home() {
 
 
   return (
+    
     <div className="card-container">
       {arrivals.map((item)=>(
         <div>
